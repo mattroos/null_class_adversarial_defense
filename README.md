@@ -2,6 +2,8 @@
 Code to replicate the arxiv technical report:  
 [Utilizing a null class to restrict decision spaces and defend against neural network adversarial attacks](https://arxiv.org/)
 
+![p](null_models.png)
+
 The code in this repo was used to build, train, and test all the models reported on in the paper. Is also generates all the figures.
 
 ### Main Python package requirements
